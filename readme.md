@@ -1,5 +1,7 @@
 # AoC 2024 solutions by 0xJacoby
 
+test
+
 <table><tr>
   <td><a href='Day1/src/Day1.java'><b>Day 1</b></a></td>
   <td><a href='Day2/src/Day2.java'><b>Day 2</b></a></td>
