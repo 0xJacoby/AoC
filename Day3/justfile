@@ -1,0 +1,2 @@
+run:
+   @java src/Day3.java 
