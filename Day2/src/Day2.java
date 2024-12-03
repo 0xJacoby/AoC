@@ -57,6 +57,7 @@ public class Day2 {
         }
 
         System.out.println("Part 1: " + String.valueOf(safeCount) + " safe levels.");
-        System.out.println("Part 2: " + String.valueOf(safeCount + dampedSafeCount) + " safe levels.");
+        System.out.println(
+            "Part 2: " + String.valueOf(safeCount + dampedSafeCount) + " safe levels.");
     }
 }

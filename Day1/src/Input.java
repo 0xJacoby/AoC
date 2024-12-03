@@ -15,4 +15,10 @@ public class Input {
             return new String[0];
         }
     }
+
+    public static String joinLines(String filePath) {
+        String[] lines = readLines(filePath);
+
+        return String.join("", lines);
+    }
 }
