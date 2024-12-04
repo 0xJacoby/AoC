@@ -4,7 +4,7 @@
   <td><a href='Day1/src/Day1.java'><b>Day 1</b></a></td>
   <td><a href='Day2/src/Day2.java'><b>Day 2</b></a></td>
   <td><a href='Day3/src/Day3.java'><b>Day 3</b></a></td>
-  <td><a><b>Day 4</b></a></td>
+  <td><a href='Day4/src/Day4.java'><b>Day 4</b></a></td>
   <td><a><b>Day 5</b></a></td>
 </tr><tr>
   <td><a><b>Day 6</b></a></td>
