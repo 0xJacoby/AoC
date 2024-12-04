@@ -10,7 +10,6 @@ public class Day4 {
         };
 
         String[] allowedStrings = {"XMAS", "SAMX"};
-
         int count = 0;
 
         for (int i = 0; i < rows.length; i++) {
@@ -33,11 +32,13 @@ public class Day4 {
                 }
 
                 for (StringBuilder dirBuffer : directionBuffers) {
-                    if (Arrays.asList(allowedStrings).contains(dirBuffer.toString()))
+                    if (Arrays.asList(allowedStrings).contains(dirBuffer.toString())) {
                         count++;
+                    }
                 }
             }
         }
+
         return count;
     }
 
